@@ -1,5 +1,5 @@
-# vue-demo
-
+# vue-editor
+vue-cil3版本以上版本使用，低版本使用可只下载src/page下代码，然后引用组件即可
 ## Project setup
 ```
 npm install
